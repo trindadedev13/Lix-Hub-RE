@@ -1,9 +1,9 @@
-import dev.trindadedev.template.build.BuildConfig
-import dev.trindadedev.template.build.VersionUtils
+import dev.trindadedev.lixhubre.build.BuildConfig
+import dev.trindadedev.lixhubre.build.VersionUtils
 
 plugins {
-  alias(libs.plugins.template.application)
-  alias(libs.plugins.template.compose)
+  alias(libs.plugins.lixhubre.application)
+  alias(libs.plugins.lixhubre.compose)
   alias(libs.plugins.kotlin.serialization)
 }
 

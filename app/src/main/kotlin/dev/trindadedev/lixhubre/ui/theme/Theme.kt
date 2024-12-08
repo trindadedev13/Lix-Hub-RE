@@ -16,7 +16,7 @@ import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
 
 @Composable
-fun TemplateTheme(
+fun LixHubRETheme(
   darkTheme: Boolean = isSystemInDarkTheme(),
   highContrastDarkTheme: Boolean = false,
   dynamicColor: Boolean = true,

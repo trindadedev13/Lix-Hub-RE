@@ -11,18 +11,18 @@ dependencies {
 
 gradlePlugin {
   plugins {
-    register("template.application") {
-      id = "template.application"
+    register("lixhubre.application") {
+      id = "lixhubre.application"
       implementationClass = "ApplicationConventionPlugin"
     }
     
-    register("template.library") {
-      id = "template.library"
+    register("lixhubre.library") {
+      id = "lixhubre.library"
       implementationClass = "LibraryConventionPlugin"
     }
     
-    register("template.compose") {
-      id = "template.compose"
+    register("lixhubre.compose") {
+      id = "lixhubre.compose"
       implementationClass = "ComposeConventionPlugin"
     }
   }

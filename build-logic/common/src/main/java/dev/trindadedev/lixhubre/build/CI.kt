@@ -1,4 +1,4 @@
-package dev.trindadedev.template.build
+package dev.trindadedev.lixhubre.build
 
 import java.io.File
 

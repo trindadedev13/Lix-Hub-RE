@@ -1,2 +1,2 @@
-# Android Compose Template
-a simple template for compose app
+# Lix Hub Remake
+Remake of Lix Hub
