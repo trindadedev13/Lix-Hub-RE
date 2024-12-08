@@ -7,6 +7,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.*
 import androidx.compose.ui.input.nestedscroll.*
 import androidx.compose.ui.res.*
+import androidx.compose.ui.unit.*
 import androidx.compose.ui.text.style.TextAlign
 import dev.trindadedev.lixhubre.Strings
 import dev.trindadedev.lixhubre.Drawables

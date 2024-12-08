@@ -1,4 +1,4 @@
-package dev.trindadedev.template.navigation.routes
+package dev.trindadedev.lixhubre.navigation.routes
 
 import kotlinx.serialization.Serializable
 

@@ -1,4 +1,4 @@
-package dev.trindadedev.template.ui.theme
+package dev.trindadedev.lixhubre.ui.theme
 
 import android.app.Activity
 import android.os.Build
