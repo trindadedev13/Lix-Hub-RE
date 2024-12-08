@@ -15,7 +15,7 @@ import androidx.navigation.compose.rememberNavController
 
 import dev.trindadedev.lixhubre.navigation.MainNavHost
 import dev.trindadedev.lixhubre.platform.LocalMainNavController
-import dev.trindadedev.lixhubre.ui.theme.TemplateTheme
+import dev.trindadedev.lixhubre.ui.theme.LixHubRETheme
 
 class MainActivity : ComponentActivity() {
 
